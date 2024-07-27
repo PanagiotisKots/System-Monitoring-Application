@@ -4,6 +4,8 @@ System Monitoring Utility
 
 Overview
 
+<img src = "hi.jpg">
+
 This is a System Monitoring Utility designed for Windows environments. It provides real-time monitoring of system metrics including CPU usage, memory usage, disk usage, and network usage. The utility also logs data to a file and displays hardware information.
 Features
 
