@@ -44,8 +44,3 @@ Ensure that your code adheres to the project's coding standards and passes all t
 # 📕License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-
-For any questions or issues, please contact your-email@example.com.
-
-Feel free to customize the links, contact information, and any other details to better fit your needs.
