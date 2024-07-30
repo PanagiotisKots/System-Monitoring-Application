@@ -25,8 +25,7 @@ This is a System Monitoring Utility designed for Windows environments. It provid
 Clone the Repository:
 
     git clone https://github.com/PanagiotisKots/System-Monitoring.git
-    cd system-monitoring-utility
-
+    cd System-Monitoring
 Build the Project:
 
     Using Command Line or a C-C++ IDE with a compiler in it like Dev-C/C++ IDE
