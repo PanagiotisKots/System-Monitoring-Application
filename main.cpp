@@ -382,10 +382,3 @@ int main() {
 
 
 
-
-
-//add colors red and green in temperatures, threads they use, disk , ram and more,.....,
-//add external library to add temperatures and more , also add historyb  of metricks and save to file option
-
-
-
