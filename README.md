@@ -1,3 +1,6 @@
+# ⚠️ Warning: not all functionalities are included in this version , They will be after updates finish
+
+
 <div align = "center">
 
   # S.M.A  🚀🔧
