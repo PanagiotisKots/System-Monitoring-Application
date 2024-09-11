@@ -82,7 +82,7 @@ Configuration
 
 | Component           | Description                        |
 |---------------------|------------------------------------|
-| ![CPU Usage](img/img2.jpg) | Real-time CPU usage graph and progress bar. |
+| ![CPU Usage](img/img1.jpg) | Real-time CPU usage graph and progress bar. |
 
 ### RAM Usage
 
