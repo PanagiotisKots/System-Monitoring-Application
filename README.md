@@ -46,7 +46,7 @@ Installation Steps
 
  
 
-    git clone https://github.com/pkotsorgios/project-repo.git
+    git clone https://github.com/PanagiotisKots/System-Monitoring-Application.git
 
 Open the Project:
 
