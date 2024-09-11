@@ -88,7 +88,7 @@ Configuration
 
 | Component           | Description                        |
 |---------------------|------------------------------------|
-| ![RAM Usage](img/img2.jpg) | Real-time RAM usage graph and progress bar. |
+| ![RAM Usage](img/img5.jpg) | Real-time RAM usage graph and progress bar. |
 
 ### System Information
 
