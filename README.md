@@ -161,25 +161,6 @@ This project leverages a variety of technologies and tools to deliver its functi
 
 ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?logo=windows&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Delphi](https://img.shields.io/badge/Delphi-%23FFB500.svg?logo=delphi&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?logo=visual-studio&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white) ![MIT License](https://img.shields.io/badge/License-MIT-%23009B77.svg?logo=open-source&logoColor=white) ![Psapi](https://img.shields.io/badge/Psapi-%230A8F0A.svg?logo=windows&logoColor=white) ![System Information](https://img.shields.io/badge/System%20Information-%2300A3E0.svg?logo=windows&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?logo=json&logoColor=white) ![API](https://img.shields.io/badge/API-%2300A3E0.svg?logo=api&logoColor=white) ![Performance](https://img.shields.io/badge/Performance-%23FF5733.svg?logo=performance&logoColor=white) ![Charts](https://img.shields.io/badge/Charts-%2300A3E0.svg?logo=chart&logoColor=white) ![System Monitoring](https://img.shields.io/badge/System%20Monitoring-%23FF8C00.svg?logo=monitor&logoColor=white) ![CPU](https://img.shields.io/badge/CPU-%23FF4500.svg?logo=cpu&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-%2300BFFF.svg?logo=ram&logoColor=white) ![Graphs](https://img.shields.io/badge/Graphs-%234CAF50.svg?logo=graphs&logoColor=white) ![Charts](https://img.shields.io/badge/Charts-%239C27B0.svg?logo=charts&logoColor=white) ![Real-Time](https://img.shields.io/badge/Real-Time-%231E88E5.svg?logo=clock&logoColor=white) ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%236C8E8E.svg?logo=visualization&logoColor=white) ![Monitoring Tools](https://img.shields.io/badge/Monitoring%20Tools-%23FFC107.svg?logo=tools&logoColor=white)
 
-- **Windows**: The operating system for which the application is developed.
-- **C++**: The programming language used for core development.
-- **Delphi**: Used for building the graphical user interface.
-- **Visual Studio**: The IDE employed for coding and debugging.
-- **GitHub**: Platform used for version control and collaboration.
-- **MIT License**: Licensing model governing the project's use and distribution.
-- **Psapi**: Windows API used for accessing performance data.
-- **System Information**: Libraries and tools used for retrieving system metrics.
-- **JSON**: Data format used for configuration or data exchange.
-- **API**: Interfaces used to access system and performance information.
-- **Performance**: Tools and libraries for monitoring and enhancing performance.
-- **Charts**: Libraries used for rendering visual performance graphs.
-- **System Monitoring**: Tools and techniques for monitoring system performance.
-- **CPU**: Metrics and tools for CPU usage and performance.
-- **RAM**: Metrics and tools for monitoring RAM usage.
-- **Graphs**: Libraries and tools for visualizing data trends.
-- **Real-Time**: Capabilities for real-time monitoring and updates.
-- **Data Visualization**: Techniques and tools for visualizing system data.
-- **Monitoring Tools**: Various tools used for system and performance monitoring.
 
 Explore these technologies and tools to understand how the System Monitoring Program integrates and utilizes them!
 
