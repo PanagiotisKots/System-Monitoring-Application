@@ -142,11 +142,6 @@ For any inquiries or support, contact:
     Email: pkotsorgios654@gmail.com
     GitHub: https://github.com/PanagiotisKots
 
-Acknowledgments 🙏
-
-    Special Thanks: To the community on Stack Overflow for support and solutions.
-    Resources: Delphi Community for valuable programming resources and documentation.
-
 
 ## Project Technologies and Tools Used 🛠️
 
