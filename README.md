@@ -88,13 +88,13 @@ Configuration
 
 | Component           | Description                        |
 |---------------------|------------------------------------|
-| ![RAM Usage](img/img5.jpg) | Real-time RAM usage graph and progress bar. |
+| ![RAM Usage](img/img2.jpg) | Real-time RAM usage graph and progress bar. |
 
 ### System Information
 
 | Component           | Description                        |
 |---------------------|------------------------------------|
-| ![System Information](img.img4.jpg) | Detailed system and processor information. |
+| ![System Information](img/img4.jpg) | Detailed system and processor information. |
 
 
 
