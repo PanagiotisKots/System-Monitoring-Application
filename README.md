@@ -2,7 +2,7 @@
 
 This powerful tool is designed to provide real-time monitoring of various system metrics such as CPU usage, RAM usage, and system information. It features a user-friendly interface and dynamic visualizations to help you keep track of your system's performance efficiently.
 
-![System Monitoring Screenshot](https://via.placeholder.com/800x400.png) <!-- Replace with an actual screenshot -->
+![System Monitoring Screenshot](img/img3.jpg) <!-- Replace with an actual screenshot -->
 
 ## Features 🌟
 
