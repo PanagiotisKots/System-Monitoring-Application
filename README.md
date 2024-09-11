@@ -48,20 +48,6 @@ Installation Steps
 
     git clone https://github.com/PanagiotisKots/System-Monitoring-Application.git
 
-Open the Project:
-
-    Open the .dpr file with Delphi or C++ Builder.
-
-    Compile and Run:
-
-    Build the project and execute the application. Ensure that all dependencies are properly linked.
-
-Configuration
-
-    Timer Interval: Adjust the interval in Timer1 for how frequently the data updates.
-    Graph Settings: Customize the appearance of the performance graphs in PerformanceGraph1 and PerformanceGraph2.
-
-
 
 
 
