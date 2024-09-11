@@ -1,4 +1,4 @@
-# S.M.U  🚀🔧
+# S.M.A  🚀🔧
 
 This powerful tool is designed to provide real-time monitoring of various system metrics such as CPU usage, RAM usage, and system information. It features a user-friendly interface and dynamic visualizations to help you keep track of your system's performance efficiently.
 
