@@ -29,8 +29,9 @@ This powerful tool is designed to provide real-time monitoring of various system
 
 
 
-Installation and Setup 🚀
-Prerequisites
+
+# Installation and Setup 🚀
+### Prerequisites
 
     Delphi or C++ Builder: To run or modify the source code.
     Windows OS: The application is designed to run on Windows.
@@ -39,11 +40,11 @@ Installation Steps
 
     Clone the Repository:
 
-    bash
+ 
 
     git clone https://github.com/pkotsorgios/project-repo.git
 
-    Open the Project:
+Open the Project:
 
     Open the .dpr file with Delphi or C++ Builder.
 
@@ -73,8 +74,7 @@ Configuration
 | **Edit1**         | Shows detailed processor information.                |
 | **Edit2**         | Displays the current user's name.                    |
 | **Edit4**         | Shows total RAM memory available.                    |
-| **PerformanceGraph1** | Displays a real-time graph of CPU usage trends.  |
-| **PerformanceGraph2** | Displays a real-time graph of additional performance metrics. |
+
 
 ## Screenshots 📸
 
@@ -82,19 +82,19 @@ Configuration
 
 | Component           | Description                        |
 |---------------------|------------------------------------|
-| ![CPU Usage](https://via.placeholder.com/400x200.png) | Real-time CPU usage graph and progress bar. |
+| ![CPU Usage](img/img1.jpg) | Real-time CPU usage graph and progress bar. |
 
 ### RAM Usage
 
 | Component           | Description                        |
 |---------------------|------------------------------------|
-| ![RAM Usage](https://via.placeholder.com/400x200.png) | Real-time RAM usage graph and progress bar. |
+| ![RAM Usage](img/img2.jpg) | Real-time RAM usage graph and progress bar. |
 
 ### System Information
 
 | Component           | Description                        |
 |---------------------|------------------------------------|
-| ![System Information](https://via.placeholder.com/400x200.png) | Detailed system and processor information. |
+| ![System Information](img.img4.jpg) | Detailed system and processor information. |
 
 
 
@@ -115,24 +115,6 @@ Configuration
 - **Dark Mode/Light Mode**: Toggle between dark and light themes to suit your visual preference.
 - **Full-Screen Mode**: Enable or disable full-screen mode for a more immersive experience.
 
-## Performance Metrics 📈
-
-### CPU Usage
-
-| Metric           | Value   |
-|------------------|---------|
-| **Current Usage** | 23.5%   |
-| **Max Usage**     | 75.0%   |
-| **Average Usage** | 45.2%   |
-
-### RAM Usage
-
-| Metric           | Value   |
-|------------------|---------|
-| **Current Usage** | 56.7%   |
-| **Total RAM**     | 16 GB   |
-| **Available RAM** | 7.3 GB  |
-
 
 
 ## Contributing 🤝
@@ -141,24 +123,22 @@ We welcome contributions to enhance the functionality and performance of the Sys
 
 1. **Fork the Repository**: Create your own copy of the repository.
 2. **Create a Branch**: 
-   ```bash
+
    git checkout -b feature/YourFeature
 
     Commit Your Changes:
 
-    bash
 
 git commit -am 'Add new feature'
 
 Push to Your Branch:
 
-bash
 
     git push origin feature/YourFeature
 
     Submit a Pull Request: Open a pull request on GitHub for review.
 
-License 📜
+# License 📜
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 Contact 📧
@@ -166,22 +146,14 @@ Contact 📧
 For any inquiries or support, contact:
 
     Name: Panagiotis Kotsorgios
-    Email: panagiotis.kotsorgios@example.com
-    GitHub: pkotsorgios
+    Email: pkotsorgios654@gmail.com
+    GitHub: https://github.com/PanagiotisKots
 
 Acknowledgments 🙏
 
     Special Thanks: To the community on Stack Overflow for support and solutions.
     Resources: Delphi Community for valuable programming resources and documentation.
 
-vbnet
-
-
-Feel free to copy and paste this markdown into your GitHub repository's README or other relevant documentation files. 
-
-## Project Technologies and Tools Used 🛠️
-
-This project leverages various technologies and tools to deliver its functionalities. Here's a detailed look at the key components:
 
 ## Project Technologies and Tools Used 🛠️
 
